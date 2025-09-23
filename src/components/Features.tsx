@@ -13,7 +13,7 @@ const Features: React.FC = () => {
     {
       title: t('features.security.title'),
       description: t('features.security.description'),
-      image: "https://images.pexels.com/photos/5473955/pexels-photo-5473955.jpeg?auto=compress&cs=tinysrgb&w=600"
+      image: "/images/bank-security.jpeg"
     },
     {
       title: t('features.rates.title'),
