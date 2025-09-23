@@ -33,7 +33,7 @@ const Features: React.FC = () => {
     {
       title: t('features.mobile.title'),
       description: t('features.mobile.description'),
-      image: "https://images.pexels.com/photos/3760811/pexels-photo-3760811.jpeg?auto=compress&cs=tinysrgb&w=600"
+      image: "/images/mobile-first.jpg"
     }
   ];
 
