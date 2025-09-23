@@ -97,7 +97,7 @@ const translations = {
     'footer.quickLinks': 'Mga Mabilis na Link',
     'footer.contactInfo': 'Impormasyon sa Contact',
     'footer.address': '123 Financial District\nMaynila, Philippines 1004',
-    'footer.copyright': '© 2025 LendTrust. Lahat ng karapatan ay nakalaan. Licensed ng Department of Financial Services.',
+    'footer.copyright': '© 2025 LendTrust. Lahat ng karapatan ay nakalaan. Lisensyado ng Department of Financial Services.',
   },
   en: {
     // Header
