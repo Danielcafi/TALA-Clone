@@ -56,8 +56,8 @@ const Hero: React.FC = () => {
           <div className="relative">
             <div className="bg-white rounded-3xl shadow-2xl p-6 transform rotate-3 hover:rotate-0 transition-transform duration-300">
               <img 
-                src="https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=800" 
-                alt="Happy customer using mobile banking"
+                src="https://images.unsplash.com/photo-1594736797933-d0c29c6c0a8b?auto=format&fit=crop&w=800&q=80" 
+                alt="Professional Asian woman with credit card and smartphone"
                 className="w-full h-80 object-cover rounded-2xl"
               />
             </div>
