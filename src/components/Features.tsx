@@ -23,7 +23,7 @@ const Features: React.FC = () => {
     {
       title: t('features.support.title'),
       description: t('features.support.description'),
-      image: "https://images.pexels.com/photos/3760790/pexels-photo-3760790.jpeg?auto=compress&cs=tinysrgb&w=600"
+      image: "/images/personal-support.jpg"
     },
     {
       title: t('features.noFees.title'),
