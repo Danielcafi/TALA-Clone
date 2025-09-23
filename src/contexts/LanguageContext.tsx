@@ -46,15 +46,15 @@ const translations = {
     'features.subtitle': 'Nakatuon kami sa pagbibigay sa inyo ng pinakamahusay na lending experience sa pamamagitan ng innovative technology at exceptional service.',
     'features.fastApproval.title': 'Mabilis na Approval',
     'features.fastApproval.description': 'Makakuha ng approval sa loob ng 60 segundo gamit ang aming AI-powered decision engine. Ang aming advanced technology ay nagsusuri ng inyong application kaagad, nagbibigay sa inyo ng immediate results para ma-access ninyo ang funds kapag kailangan ninyo.',
-    'features.security.title': 'Bank-Level Security',
+    'features.security.title': 'Bank-Level na Seguridad',
     'features.security.description': 'Ang inyong data ay protektado ng 256-bit SSL encryption at secure banking protocols. Ginagamit namin ang parehong security standards ng mga major banks para masiguro na ang inyong personal at financial information ay nananatiling ligtas at confidential.',
-    'features.rates.title': 'Competitive Rates',
+    'features.rates.title': 'Competitive na Rates',
     'features.rates.description': 'Mag-enjoy ng mababang interest rates simula sa 5.99% APR na may flexible repayment terms. Nag-aalok kami ng transparent pricing na walang nakatagong bayad, nagsisiguro na makakakuha kayo ng pinakamahusay na deal para sa inyong financial situation.',
-    'features.support.title': 'Personal Support',
+    'features.support.title': 'Personal na Suporta',
     'features.support.description': 'Makakuha ng tulong mula sa aming friendly customer support team na available 24/7 sa chat o phone. Ang aming dedicated specialists ay nandito para gabayan kayo sa bawat hakbang ng proseso at sagutin ang anumang tanong na mayroon kayo.',
     'features.noFees.title': 'Walang Nakatagong Bayad',
     'features.noFees.description': 'Transparent pricing na walang origination fees, prepayment penalties, o nakatagong charges. Ang nakikita ninyo ay ang makukuha ninyo - naniniwala kami sa honest, straightforward lending na may complete transparency sa lahat ng aming terms.',
-    'features.mobile.title': 'Mobile First',
+    'features.mobile.title': 'Mobile Una',
     'features.mobile.description': 'I-manage ang inyong loan nang buo mula sa inyong smartphone gamit ang aming intuitive mobile app. I-track ang payments, tingnan ang statements, at makakuha ng support - lahat mula sa convenience ng inyong mobile device, kahit saan, kahit kailan.',
 
     // Testimonials
@@ -95,7 +95,7 @@ const translations = {
     // Footer
     'footer.description': 'Ang LendTrust ay nakatuon sa pagbibigay ng mabilis, secure, at affordable lending solutions para matulungan kayong makamit ang inyong financial goals. Licensed at regulated para sa inyong proteksyon.',
     'footer.quickLinks': 'Mga Mabilis na Link',
-    'footer.contactInfo': 'Contact Info',
+    'footer.contactInfo': 'Impormasyon sa Contact',
     'footer.address': '123 Financial District\nMaynila, Philippines 1004',
     'footer.copyright': '© 2025 LendTrust. Lahat ng karapatan ay nakalaan. Licensed ng Department of Financial Services.',
   },
